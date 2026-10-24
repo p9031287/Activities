@@ -6,6 +6,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "id",
+        "key": "key",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
         "device_id": "e7a49a6900d86eb7",
         "key": "Mynex_ofc",
         "expirydate": "15-06-2099",
